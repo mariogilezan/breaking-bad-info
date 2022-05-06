@@ -40,7 +40,6 @@ export default function CharacterList() {
             placeholder='Search characters'
             value={searchTerm}
             onChange={(e) => onChange(e.target.value)}
-            autoFocus
           />
         </form>
       </FormWrapper>
