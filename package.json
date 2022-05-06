@@ -1,7 +1,9 @@
 {
-  "name": "breaking-bad-app",
+  "name": "breaking-bad-info",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "author": "Mario Gilezan",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
