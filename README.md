@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img alt="site logo" src="./src/img/logo.png" width="120" style="background-color: #0D2213" />
+    <img alt="site logo" src="./src/assets/logo.png" width="120" style="background-color: #0D2213" />
   </a>
 </p>
 <h1 align="center">
