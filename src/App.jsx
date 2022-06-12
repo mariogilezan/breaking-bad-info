@@ -12,6 +12,7 @@ import { ThemeProvider } from 'styled-components';
 import { darkTheme, lightTheme } from './styles/themes';
 import { useTheme } from './hooks/useTheme';
 import NotFound from './pages/NotFound';
+import Footer from './components/Footer';
 
 const themes = {
   light: lightTheme,
@@ -41,6 +42,7 @@ function App() {
                 element={<CharacterPage />}
               />
             </Routes>
+            <Footer />
           </Container>
         </Router>
       </ThemeProvider>
