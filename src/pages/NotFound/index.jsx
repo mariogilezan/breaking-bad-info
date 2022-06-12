@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import styled from 'styled-components';
-import errorImg from '../../img/404.jpg';
+import errorImg from '../../assets/404.jpg';
 
 const NotFoundWrapper = styled.div`
   max-width: 37.5rem;

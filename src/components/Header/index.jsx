@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import styled from 'styled-components';
-import logo from '../../img/logo.png';
+import logo from '../../assets/logo.png';
 
 const HeaderWrapper = styled.header`
   height: 12rem;
