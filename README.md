@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://breaking-bad-show-info.netlify.app/" target="_blank">
+  <a href="https://breaking-bad-show-info.netlify.app/">
     <img alt="site logo" src="./src/assets/logo.png" width="120" style="background-color: #0D2213" />
   </a>
 </p>
